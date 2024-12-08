@@ -67,6 +67,10 @@ function Header() {
               <Link href="/Contact" className="hover:text-gray-700">
                 Contact
               </Link>
+              <Link href="/Cart" className="hover:text-gray-700">
+                Cart
+              </Link>
+             
             </div>
           </SheetContent>
         </Sheet>
