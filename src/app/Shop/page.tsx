@@ -23,7 +23,7 @@ function page() {
         <Image
           src={aboutHeroImage}
           alt="hero section image for about page"
-          className="w-full h-[400px] object-cover" // Adjust height as needed
+          className="w-full h-[400px] object-cover"
         />
         {/* Overlay Text */}
         <div className="absolute inset-0 flex flex-col justify-center items-center bg-black bg-opacity-0 text-black text-center">

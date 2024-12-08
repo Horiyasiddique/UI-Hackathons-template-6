@@ -37,7 +37,7 @@ function Header() {
         <Link href={"/"}>
           <IoHeartOutline />
         </Link>
-        <Link href={"/"}>
+        <Link href={"/Cart"}>
           <IoCartOutline />
         </Link>
       </div>
