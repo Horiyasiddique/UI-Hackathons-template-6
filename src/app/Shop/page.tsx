@@ -10,7 +10,6 @@ import product1Image from "../../../public/image 1.png";
 import product2Image from "../../../public/image 2.png";
 import product3Image from "../../../public/image 3.png";
 import product4Image from "../../../public/image 4.png";
-import product5Image from "../../../public/image 5.png";
 import product6Image from "../../../public/image 6.png";
 import product7Image from "../../../public/image 7.png";
 import product8Image from "../../../public/image 8.png";
@@ -111,7 +110,7 @@ function page() {
           discount="New"
         />
         <Card
-          image={product5Image}
+          image={product4Image}
           brandName="Grifo"
           productName="Night lamp"
           newPrice={1500000}
